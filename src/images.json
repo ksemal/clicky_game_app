@@ -1,0 +1,152 @@
+[
+  {
+    "id": "0",
+    "name": "aligator",
+    "imageSrc": "/img/aligator.jpg",
+    "clicked": false
+  },
+  {
+    "id": "1",
+    "name": "bear",
+    "imageSrc": "/img/bear.jpg",
+    "clicked": false
+  },
+  {
+    "id": "2",
+    "name": "buffalo",
+    "imageSrc": "/img/buffalo.jpg",
+    "clicked": false
+  },
+  {
+    "id": "3",
+    "name": "bull",
+    "imageSrc": "/img/bull.jpg",
+    "clicked": false
+  },
+  {
+    "id": "4",
+    "name": "cat",
+    "imageSrc": "/img/cat.jpg",
+    "clicked": false
+  },
+  {
+    "id": "5",
+    "name": "cow",
+    "imageSrc": "/img/cow.jpg",
+    "clicked": false
+  },
+  {
+    "id": "6",
+    "name": "deer",
+    "imageSrc": "/img/deer.jpg",
+    "clicked": false
+  },
+  {
+    "id": "7",
+    "name": "elephant",
+    "imageSrc": "/img/elephant.jpg",
+    "clicked": false
+  },
+  {
+    "id": "8",
+    "name": "fawn",
+    "imageSrc": "/img/fawn.jpg",
+    "clicked": false
+  },
+  {
+    "id": "9",
+    "name": "flamingo",
+    "imageSrc": "/img/flamingo.jpg",
+    "clicked": false
+  },
+  {
+    "id": "10",
+    "name": "fox",
+    "imageSrc": "/img/fox.jpg",
+    "clicked": false
+  },
+  {
+    "id": "11",
+    "name": "giraffe",
+    "imageSrc": "/img/giraffe.jpg",
+    "clicked": false
+  },
+  {
+    "id": "12",
+    "name": "horse",
+    "imageSrc": "/img/horse.jpg",
+    "clicked": false
+  },
+  {
+    "id": "13",
+    "name": "lion",
+    "imageSrc": "/img/lion.jpg",
+    "clicked": false
+  },
+  {
+    "id": "14",
+    "name": "lioness",
+    "imageSrc": "/img/lioness.jpg",
+    "clicked": false
+  },
+  {
+    "id": "15",
+    "name": "octopus",
+    "imageSrc": "/img/octopus.jpg",
+    "clicked": false
+  },
+  {
+    "id": "16",
+    "name": "panda",
+    "imageSrc": "/img/panda.jpg",
+    "clicked": false
+  },
+  {
+    "id": "17",
+    "name": "parrot",
+    "imageSrc": "/img/parrot.jpg",
+    "clicked": false
+  },
+  {
+    "id": "18",
+    "name": "penguin",
+    "imageSrc": "/img/penguin.jpg",
+    "clicked": false
+  },
+  {
+    "id": "19",
+    "name": "pig",
+    "imageSrc": "/img/pig.jpg",
+    "clicked": false
+  },
+  {
+    "id": "20",
+    "name": "raccoon",
+    "imageSrc": "/img/raccoon.jpg",
+    "clicked": false
+  },
+  {
+    "id": "21",
+    "name": "sea-lion",
+    "imageSrc": "/img/sea-lion.jpg",
+    "clicked": false
+  },
+  {
+    "id": "22",
+    "name": "sheep",
+    "imageSrc": "/img/sheep.jpg",
+    "clicked": false
+  },
+  {
+    "id": "23",
+    "name": "tiger",
+    "imageSrc": "/img/tiger.jpg",
+    "clicked": false
+  },
+  {
+    "id": "24",
+    "name": "unicorn",
+    "imageSrc": "/img/unicorn.jpg",
+    "clicked": false
+  }
+]
