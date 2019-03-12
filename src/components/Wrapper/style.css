@@ -10,7 +10,7 @@
   overflow: auto;
 }
 .bg {
-  background-image: url("/img/bg.png");
+  background-image: url("https://s3.amazonaws.com/ksemal.com/img/bg.jpg?fbclid=IwAR0U-0d60_P-ci6AIcaTJxkTfdn63cXT12uSbLGJkFU1Aec9p5VNpEYXVSQ");
   background-size: cover;
   text-align: center;
   padding: 200px 250px 200px 250px;
