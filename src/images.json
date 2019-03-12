@@ -2,7 +2,7 @@
   {
     "id": "0",
     "name": "aligator",
-    "imageSrc": "/img/aligator.jpg",
+    "imageSrc": "./img/aligator.jpg",
     "clicked": false
   },
   {
