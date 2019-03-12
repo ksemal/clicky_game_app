@@ -6,7 +6,7 @@ function Wrapper(props) {
     <div className="container-fluid">
       <nav class="navbar fixed-top navbar-light bg-light">
         <a className="title" href="/">
-          <i class="fas fa-dice" />
+          <i className="fas fa-dice" />
           &nbsp; Clicky Game
         </a>
         <div className={props.class} onAnimationEnd={props.anim}>
@@ -24,7 +24,7 @@ function Wrapper(props) {
       <div className={`wrapper ${props.class}`}>{props.children}</div>
       <div className="footer">
         <a href="https://github.com/ksemal/Clicky-Game">
-          <i class="fab fa-github-square" /> KM
+          <i className="fab fa-github-square" /> KM
         </a>
       </div>
     </div>
